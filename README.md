@@ -1,6 +1,9 @@
-# Maple2 Client
+# MapleStory2-Client
+Maple2-Client another name (Base and edited by Kustale)
 
-## Example Config File (maple2.ini)
+It is the same as Maple2.dll, except that Maple2.dll was changed to MapleStory2.dll and Maple2.ini was changed to server.ini. :)
+
+## Example Config File (server.ini)
 ```ini
 [default]
 name=Maple2
